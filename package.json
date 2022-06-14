@@ -1,0 +1,15 @@
+{
+  "name": "image-cdn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:TheoOliveira/image-cdn.git",
+  "author": "TheoOliveira <theophilo.oliveira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jimp": "^0.16.1",
+    "typescript": "^4.7.3"
+  }
+}
